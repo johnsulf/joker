@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/johnsulf/joker#readme",
   "devDependencies": {
+    "eslint": "^9.2.0",
     "prettier": "^3.2.5"
   },
   "dependencies": {
